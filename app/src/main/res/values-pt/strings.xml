@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="notes">Minhas Notas</string>
+    <string name="notes_title">Titulo da Nota</string>
+    <string name="notes_sub_title">SubTitulo da Nota</string>
+    <string name="notes_desc">Inserir Nota</string>
+    <string name="web_url">Inserir Endereço Web</string>
+    <string name="cancel">Cancelar</string>
+    <string name="storage_permission_text">Esta App Precisa de acesso ao Armazenamento</string>
+    <string name="search">Pesquisar Notas</string>
+    <string name="hello_blank_fragment">Fragmento</string>
+    <string name="DeleteNote">Apagar Nota</string>
+</resources>
